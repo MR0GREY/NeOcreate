@@ -1,0 +1,9 @@
+{
+  "id" : "d6dbb921c45a48dc88817e526c984d3c",
+  "name" : "Greyshot",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NzEzNjEyNzk4OSwKICAicHJvZmlsZUlkIiA6ICJkNmRiYjkyMWM0NWE0OGRjODg4MTdlNTI2Yzk4NGQzYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmV5c2hvdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMThhZWE5NzE5MGM3OTM4NTdlOWFiODc4MjNlNDg2ZmEwOTU2ZDE5N2Q3YzdhNWM1NGZjMTdkMDdmN2ViYWNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

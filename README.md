@@ -22,7 +22,7 @@
 Летающие дроны, ядерные взрывы, ураганы, полная автоматизация — и всё на берегах Байкала.
 
 > ⚠️ Перед установкой удали старые версии модов!  
-> Связь: [Discord]([https://discord.gg/твой_код](https://discord.gg/DQ5BzsCvYd)) · [Сайт сервера](https://sharagatelecom.ru)
+> Связь: [Discord](https://discord.gg/DQ5BzsCvYd) · [Сайт сервера](https://sharagatelecom.ru)
 
 ---
 
